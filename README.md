@@ -10,7 +10,7 @@ This is heavily inspired by the old 2014 repository **[github.com/mhe/jspaillier
 
 ## Usage
 
-In order to use this just spin up a Python Http Server and navigate to **[localhost:8000](http://localhost:8000)** in your Browser:
+In order to use this just spin up a Python Http Server ( from the **`./docs/`** folder ) and navigate to **[localhost:8000](http://localhost:8000)** in your Browser:
 
 ```sh
 python -m http.server 8000
